@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PwndDepot
 - 👀 I’m interested in anything computer related. Including reverse engineering, networking, security, general programming!
-- 🌱 I’m currently learning web development! I learned the basics as a kid but much as changed. I mostly know lower level/compiled languages and am eager to learn this new world of web development
+- 🌱 I am currently studying Computer Science at University of Colorado at Colorado Springs!
 - 📫 How to reach me: pwnddepot@gmail.com
